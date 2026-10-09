@@ -23,7 +23,7 @@ html{
 
 }
 #Seccion1{
-    background-image: url(/images/SP1.jpg);
+    background-image: url("../images/SP1.jpg");
 }
 h1{
     text-align: center;
@@ -61,16 +61,16 @@ h1{
     margin-bottom: 5px;
 }
 #Seccion2{
-    background-image: url(/images/SP3.jpg);
+    background-image: url("../images/SP3.jpg");
     align-items: center;
 }
 #Seccion3{
-    background-image: url(/images/SP4.jpg);
+    background-image: url("../images/SP4.jpg");
     align-items: center;
 }
 
 #Seccion4{
-    background-image: url(/images/SP7.jpg);
+    background-image: url("../images/SP7.jpg");
     align-items: center;
 }
 h3{
@@ -82,13 +82,10 @@ text-shadow: 0 0 28px blue;
 text-shadow: 0 0 40px blue;
 }
 #Seccion5{
-    background-image: url(/images/SP6.jpeg);
+    background-image: url("../images/SP6.jpeg");
     align-items: center;
 }
-#Seccion6{
-    background-image: url(/images/);
-    align-items: center;
-}
+
 /*MENU*/
 nav{
      position: fixed;
